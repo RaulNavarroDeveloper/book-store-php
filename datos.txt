@@ -1,0 +1,13 @@
+Carrera: Diseño y Programación Web.
+Materia: Programación II.
+cuatrimestre: 3.
+año: 2022.
+turno: Tarde.
+Comisión: "B".
+Apellido y nombre: Navarro Raul Alfredo.
+Caracter de entrega: Final.
+Docente: Santiago Gallino.
+
+//Creé varios usuarios administradores que pueden ingresar al panel, uno de ellos es:
+Email Admin:santiagoperez@gmail.com
+Password Admin:A!x57D4z
